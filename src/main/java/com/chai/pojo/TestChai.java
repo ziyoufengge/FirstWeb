@@ -15,7 +15,7 @@ public class TestChai {
 	 * @date  2018年1月5日
 	 */
 	public static void main(String[] args) {
-
+		System.out.println("测试！");
 	}
 
 }
