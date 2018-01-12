@@ -17,7 +17,7 @@ public class Testchai4 {
 	 * @date  2018年1月12日
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 测试
 
 	}
 
